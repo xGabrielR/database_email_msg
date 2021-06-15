@@ -1,2 +1,2 @@
 # database_email_msg
-Script -> Read Database and send Email
+Script -> Read Database and send Email + Sms
